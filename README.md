@@ -1,3 +1,4 @@
+![image alt](https://github.com/sagarverma40/NetflixAnalyticsDashboard/blob/main/pngimg.com%20-%20netflix_PNG6.png)
 # Netflix Analytics Dashboard
 
 ## 📌 Overview
