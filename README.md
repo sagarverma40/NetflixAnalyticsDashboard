@@ -87,6 +87,9 @@ Optimize layout for readability and user experience.
 
 Publish the dashboard to Power BI Service for sharing.
 
+Click on link to run the Dashboard
+https://github.com/sagarverma40/NetflixAnalyticsDashboard/blob/main/Netflix%20(1).pbix
+
 ## 🏁 Conclusion
 
 This project highlights how data visualization can transform raw movie data into meaningful insights. The Netflix Analytics Dashboard enables users to explore content trends, understand distribution, and identify key patterns in Netflix’s movie library.
