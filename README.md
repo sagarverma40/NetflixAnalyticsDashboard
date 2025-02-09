@@ -3,8 +3,10 @@
 ## 📌 Overview
 
 The Netflix Analytics Dashboard is an interactive Power BI dashboard designed to analyze movie genres, ratings, release trends, and availability by country. It provides valuable insights into Netflix's content distribution, helping users explore patterns and trends in a visual and dynamic manner.
+
+## 📌 Dashboard Demo
+![image alt](https://github.com/sagarverma40/NetflixAnalyticsDashboard/blob/main/Netflix_Home.jpeg)
 ![image alt]()
-![image alt](https://github.com/sagarverma40/NetflixAnalyticsDashboard/blob/main/pngimg.com%20-%20netflix_PNG6.png)
 ## 🎯 Objectives
 
 To clean and transform Netflix movie data for analysis.
