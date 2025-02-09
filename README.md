@@ -1,10 +1,10 @@
 # Netflix Analytics Dashboard
 
-# 📌 Overview
+## 📌 Overview
 
 The Netflix Analytics Dashboard is an interactive Power BI dashboard designed to analyze movie genres, ratings, release trends, and availability by country. It provides valuable insights into Netflix's content distribution, helping users explore patterns and trends in a visual and dynamic manner.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 To clean and transform Netflix movie data for analysis.
 
@@ -14,7 +14,7 @@ To create an interactive Power BI dashboard for insightful visualization.
 
 To help businesses and analysts understand content availability and audience preferences.
 
-# ✨ Features
+## ✨ Features
 
 Movie Genre Analysis: Identify the most popular genres on Netflix.
 
@@ -26,7 +26,7 @@ Interactive Filters: Users can filter data based on genres, countries, and relea
 
 Performance Metrics: Track the number of movies by genre, country availability, and release trends over the years.
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Power BI - For building the interactive dashboard.
 
@@ -36,7 +36,7 @@ MySQL - For storing and managing the cleaned dataset.
 
 Excel - For additional data transformation and verification.
 
-# 📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 Number of movies per genre (to identify popular categories).
 
@@ -46,7 +46,7 @@ Release trend over the years (to track Netflix’s evolving content strategy).
 
 Top movies per genre (to highlight standout content in each category).
 
-# 🔧 Prerequisites
+## 🔧 Prerequisites
 
 Before running this project, ensure you have the following:
 
@@ -58,7 +58,7 @@ MySQL Workbench (if using the database setup)
 
 Excel (optional) for data exploration
 
-# 🚀 How to Run This Dashboard
+## 🚀 How to Run This Dashboard
 
 Data Cleaning & Preparation
 
@@ -84,6 +84,6 @@ Optimize layout for readability and user experience.
 
 Publish the dashboard to Power BI Service for sharing.
 
-# 🏁 Conclusion
+## 🏁 Conclusion
 
 This project highlights how data visualization can transform raw movie data into meaningful insights. The Netflix Analytics Dashboard enables users to explore content trends, understand distribution, and identify key patterns in Netflix’s movie library.
